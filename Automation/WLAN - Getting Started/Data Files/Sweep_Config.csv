@@ -1,0 +1,25 @@
+Station ID: Example Tester,,,,,,,
+Model: Tester Model,,,,,,,
+"Note: Since we have chosen to ""Scan for Tag"" in TestStand  the metadata at the top will be skipped.",,,,,,,
+,,,,,,,
+,,,,,,,
+Group1,,,,,,,
+Waveform,FREQ,Target Input Power (dBm),Target Output Power (dBm),Power Target Mode,Duty Cycle,VCC,Test Config
+80211ax_HT20_MCS0,5180000000,-10,-10,Output,50,3,"Tx Power,EVM"
+80211ax_HT20_MCS0,5180000000,-10,-10,Output,50,3.7,"Tx Power,EVM"
+80211ax_HT20_MCS0,5180000000,-10,-10,Output,50,4.4,"Tx Power,EVM"
+80211ax_HT80_MCS7,5180000000,-10,-10,Output,50,3,"Tx Power,EVM"
+80211ax_HT80_MCS7,5180000000,-10,-10,Output,50,3.7,"Tx Power,EVM"
+80211ax_HT80_MCS7,5180000000,-10,-10,Output,50,4.4,"Tx Power,EVM"
+80211ax_HT20_MCS0,5500000000,-10,-10,Output,50,3,"Tx Power,EVM"
+80211ax_HT20_MCS0,5500000000,-10,-10,Output,50,3.7,"Tx Power,EVM"
+80211ax_HT20_MCS0,5500000000,-10,-10,Output,50,4.4,"Tx Power,EVM"
+80211ax_HT80_MCS7,5500000000,-10,-10,Output,50,3,"Tx Power,EVM"
+80211ax_HT80_MCS7,5500000000,-10,-10,Output,50,3.7,"Tx Power,EVM"
+80211ax_HT80_MCS7,5500000000,-10,-10,Output,50,4.4,"Tx Power,EVM"
+80211ax_HT20_MCS0,5825000000,-10,-10,Output,50,3,"Tx Power,EVM"
+80211ax_HT20_MCS0,5825000000,-10,-10,Output,50,3.7,"Tx Power,EVM"
+80211ax_HT20_MCS0,5825000000,-10,-10,Output,50,4.4,"Tx Power,EVM"
+80211ax_HT80_MCS7,5825000000,-10,-10,Output,50,3,"Tx Power,EVM"
+80211ax_HT80_MCS7,5825000000,-10,-10,Output,50,3.7,"Tx Power,EVM"
+80211ax_HT80_MCS7,5825000000,-10,-10,Output,50,4.4,"Tx Power,EVM"

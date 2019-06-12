@@ -1,0 +1,20 @@
+<PropertyGroup name='Group 1' id='ef0521c0-62fc-4152-8f7f-60840784616d' description='Description for Group 1'>,,
+<Category>,<PropertyLookup>,<Value>
+{FileGlobals},Static_Station_Configs {Container},
+{FileGlobals},Static_Station_Configs.Starting_Sweep_Number {Number},1
+{FileGlobals},Static_Station_Configs.Base_Sweep_Name {String},Group
+{FileGlobals},Static_Station_Configs.Device_Names {Container},
+{FileGlobals},Static_Station_Configs.Device_Names.SG_Name {String},5840
+{FileGlobals},Static_Station_Configs.Device_Names.SA_Name {String},5840
+{FileGlobals},Static_Station_Configs.Device_Names.Supply_Name {String},4139
+{FileGlobals},Static_Station_Configs.Servo_Config {Container},
+{FileGlobals},Static_Station_Configs.Servo_Config.Tolerance__dB_ {Number},0.05
+{FileGlobals},Static_Station_Configs.Servo_Config.Max_Number_of_Iterations {Number},20
+{FileGlobals},Static_Station_Configs.Waveform_Configs {RFmxWLAN_Waveform_Configuration [0] .. [1]},
+{FileGlobals},Static_Station_Configs.Waveform_Configs[0].Relative_Disk_Path {String},\Data Files\Waveforms\80211ax_HT20_MCS0.tdms
+{FileGlobals},Static_Station_Configs.Waveform_Configs[0].Waveform_Bandwidth {Number},20000000
+{FileGlobals},Static_Station_Configs.Waveform_Configs[0].WLAN_Standard {RFmxWlanMXStandard},"""Standard802_11ax"""
+{FileGlobals},Static_Station_Configs.Waveform_Configs[1].Relative_Disk_Path {String},\Data Files\Waveforms\80211ax_HT80_MCS7.tdms
+{FileGlobals},Static_Station_Configs.Waveform_Configs[1].Waveform_Bandwidth {Number},80000000
+{FileGlobals},Static_Station_Configs.Waveform_Configs[1].WLAN_Standard {RFmxWlanMXStandard},"""Standard802_11ax"""
+<PropertyGroup>,,
